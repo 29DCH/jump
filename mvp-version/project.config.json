@@ -12,7 +12,7 @@
 	},
 	"compileType": "game",
 	"libVersion": "2.2.1",
-	"appid": "wx309ac50dcf54ed59",
+	"appid": "Your AppId",
 	"projectname": "WxJump",
 	"isGameTourist": false,
 	"condition": {
